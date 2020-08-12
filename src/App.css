@@ -1,0 +1,40 @@
+.ReactTable .rt-thead {
+  text-align: center;
+  color: #1a8bbc;
+  font-weight: bold;
+}
+
+.header {
+  padding: 1px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+  text-shadow: 4px 4px 4px black;
+}
+
+.formLine{
+  text-align: center;
+  padding: 5px;
+}
+
+.button {
+  text-align: center;
+  padding: 5px;
+}
+
+.submitButton {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.itemLabel {
+  padding: 20px;
+  font-weight: bold;
+}
